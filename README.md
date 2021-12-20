@@ -1,5 +1,5 @@
 ## PHP-NGINX
-Build base images php with nginx
+Build base images php-fpm version 7.4 and nginx 1.20.1
 
 ## BUILD BASE IMAGE DOCKER
 ```sh
